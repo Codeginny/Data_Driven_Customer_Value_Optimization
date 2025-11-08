@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+venv_data_project/
+
+# Ignorar archivos grandes de datos y la base de datos SQL
+data1/online_retail_II.csv
+data1/cleaned_retail_data.csv 
+*.sqlite
+
+# Archivos de Python generados
+__pycache__/
+*.pyc

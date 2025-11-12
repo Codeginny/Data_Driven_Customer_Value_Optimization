@@ -20,7 +20,7 @@ Este proyecto demuestra el dominio del flujo de trabajo de análisis de datos de
 * **Lenguajes:** Python (Pandas), SQL (SQLite).
 * **Modelado y Análisis:** Modelo RFM (Recencia, Frecuencia, Valor Monetario), Análisis de Pareto, Segmentación por Cuantiles.
 * **Ingeniería de Datos:** Creación de un pipeline modular (ETL, Modelado, Exportación), Control de versiones (Git/GitHub), Gestión de entorno virtual (`venv`).
-* **Visualización (Entrega Final):** Archivo CSV final listo para importación en **Power BI / Tableau** (Hito 5).
+* **Visualización (Entrega Final):** Archivo CSV final listo para importación en **Power BI** (Hito 5).
 
 ---
 
